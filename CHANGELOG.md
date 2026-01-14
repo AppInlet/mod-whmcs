@@ -1,5 +1,11 @@
 # Changelog
 
+## [[2.4.1]](https://github.com/Payfast/mod-whmcs/releases/tag/v2.4.1)
+
+### Fixed
+
+- Corrected the PassPhrase text to Passphrase on the configuration page.
+
 ## [[2.4.0]](https://github.com/Payfast/mod-whmcs/releases/tag/v2.4.0)
 
 ### Fixed

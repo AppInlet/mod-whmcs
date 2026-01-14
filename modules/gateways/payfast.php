@@ -40,7 +40,7 @@ function Payfast_MetaData(): array
     define('PF_SOFTWARE_VER', $CONFIG['Version']);
 
     define("PF_MODULE_NAME", 'Payfast-WHMCS');
-    define("PF_MODULE_VER", '2.4.0');
+    define("PF_MODULE_VER", '2.4.1');
 
     return array(
         'DisplayName'                 => 'Payfast',
@@ -99,7 +99,7 @@ function Payfast_config(): array
         ),
         // PassPhrase field
         'passphrase'       => array(
-            'FriendlyName' => 'PassPhrase',
+            'FriendlyName' => 'Passphrase',
             'Type'         => 'text',
             'Size'         => '32',
             'Default'      => '',
